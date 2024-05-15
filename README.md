@@ -1,5 +1,5 @@
 # BFS - imprimir ordem dos elementos visitados
-
+```cpp
 #include <iostream>
 #include <vector>
 #include <queue>
@@ -51,3 +51,4 @@ int main() {
 
     return 0;
 }
+```
